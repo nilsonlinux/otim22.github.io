@@ -1,3 +1,4 @@
 name: Otim Fredrick, Web developer
 markdown: kramdown
+comments: true
 permalink: /blog/:year/:month/:day/:title
