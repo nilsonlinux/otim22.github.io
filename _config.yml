@@ -1,4 +1,6 @@
 name: Otim Fredrick, Web developer
 markdown: kramdown
 comments: true
+gems:
+  - jekyll-feed
 permalink: /blog/:year/:month/:day/:title
